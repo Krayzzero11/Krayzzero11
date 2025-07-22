@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Denis!</h1>
 
-<!--
-**Krayzzero11/Krayzzero11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>17 y/o • Aspiring Backend Developer • Based in São Paulo 🇧🇷</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 💻 Focused on mastering **Java** and backend fundamentals    
+-  Always learning — one line of code at a time  
+-  Goal: Become a solid backend dev through Java
+
+---
+
+### 🧩 Tech Stack
+
+-  Java (core, OOP, data structures)  
+-  IntelliJ IDEA & VSCode  
+-  Git & GitHub for version control
+
+---
+
+<p align="center">
+  <img src="https://github.com/Krayzzero11/Krayzzero11/blob/main/banner.gif" alt="Banner" />
+</p>
